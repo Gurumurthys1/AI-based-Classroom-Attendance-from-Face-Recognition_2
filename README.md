@@ -245,6 +245,10 @@ THRESHOLD = 0.3  # Lower = more lenient, Higher = stricter
 ## 👥 Team
 Developed for Smart India Hackathon 2024
 
+**Team Members:**
+- **Gurumurthy S** - [@Gurumurthys1](https://github.com/Gurumurthys1)
+- **Shashank R**  - [@Shashank2006offl](https://github.com/Shashank2006offl)
+
 ## 📄 License
 This project is created for educational purposes.
 
