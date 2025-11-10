@@ -107,19 +107,19 @@ Frontend will run on: http://localhost:3000
 ## 📸 Screenshots
 
 ### Dashboard
-![alt text](image.png)
+<img width="1842" height="925" alt="image" src="https://github.com/user-attachments/assets/a0d46f1a-4999-4af5-a2f8-8d5a73a35c54" />
 *Real-time statistics showing total students, present/absent counts, attendance rate, and recent attendance records*
 
 ### Mark Attendance
-![alt text](image-1.png)
+<img width="1833" height="913" alt="image" src="https://github.com/user-attachments/assets/7e545a86-0b89-4412-9799-0b4fdef7978e" />
 *Face recognition interface with live camera feed for marking attendance*
 
 ### Register Student
-![alt text](image-2.png)
+<img width="1839" height="920" alt="image" src="https://github.com/user-attachments/assets/daf75892-e2ba-4d78-94f0-afc5c5a97b0c" />
 *Student registration form with face capture functionality*
 
 ### View Records
-![alt text](image-3.png)
+<img width="1841" height="918" alt="image" src="https://github.com/user-attachments/assets/5ea24a35-45a7-4dd1-960d-6647387f6627" />
 *Attendance records and registered students management*
 
 ## 📱 Usage
